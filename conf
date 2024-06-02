@@ -1,6 +1,7 @@
 # Sample file.
 # Comments must start with #. All values must end with "#".
 # "#" is a special character and cannot be escaped. All other characters are supported.
+# Value of the key takes the last value, if multiple key with same name exists.
 
 Name=John F. Kennedy# First entry for the key, "Name".
 
@@ -8,6 +9,6 @@ Name=John F. Kennedy# First entry for the key, "Name".
 
 Age=46#
 
-Name=Sherlock Holmes# Second entry for the key, "Name". Supports all characters but #.
+Name=Sherlock Holmes# Second entry for the key, "Name". This will be the final value of the key "Name". Supports all characters but #.
 
 Address=221B Baker Street, London#
