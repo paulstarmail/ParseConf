@@ -1,2 +1,3 @@
 # ParseConf
-Parses a given configuration file.
+
+Parses a given configuration file in ubuntu OS.
