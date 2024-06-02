@@ -1,0 +1,13 @@
+# Sample file.
+# Comments must start with #. All values must end with "#".
+# "#" is a special character and cannot be escaped. All other characters are supported.
+
+Name=John F. Kennedy# First entry for the key, "Name".
+
+# Sample comment.
+
+Age=46#
+
+Name=Sherlock Holmes# Second entry for the key, "Name". Supports all characters but #.
+
+Address=221B Baker Street, London#
